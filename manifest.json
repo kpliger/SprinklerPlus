@@ -1,0 +1,16 @@
+{
+  "Name": "Sprinkler Plus",
+  "Author": "Kevin Ligeralde",
+  "Version": "1.0.0",
+  "Description": "Sprinklers automatically water nearby garden pots and Pet bowl.",
+  "UniqueID": "kevinligeralde.sprinklerplus",
+  "EntryDll": "sprinklerplus.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": [],
+  "Dependencies": [
+    {
+      "UniqueID": "spacechase0.GenericModConfigMenu",
+      "IsRequired": false
+    }
+  ]
+}
